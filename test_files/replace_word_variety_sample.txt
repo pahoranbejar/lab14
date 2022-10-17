@@ -1,0 +1,4 @@
+dog dog dog cat
+dog cat dog
+whale fish
+cat cow

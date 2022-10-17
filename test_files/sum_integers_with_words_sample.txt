@@ -1,0 +1,6 @@
+10
+dog
+cat
+foo
+bar 100 zip sang
+lollipop 5
